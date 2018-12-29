@@ -8,6 +8,8 @@ Aplicação GitHub Compare usando Create React App, ESLint, prop-types, styled-c
 
   - [Principal](#principal)
 
+- [Rotas](#rotas)
+
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -24,6 +26,10 @@ Aplicação GitHub Compare usando Create React App, ESLint, prop-types, styled-c
 
 ![Main](/assets/main.png)
 Esta é a única tela, onde encontram-se todos os repositórios do GitHub que o usuário pesquisar na caixa de texto.
+
+## Rotas
+
+- Busca um repositório do GitHub
 
 ## Desenvolvimento
 
