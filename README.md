@@ -1,8 +1,12 @@
 # ReactJS - Módulo 2
 
-Descrição.
+Aplicação GitHub Compare usando Create React App, ESLint, prop-types, styled-components, Axios, Moment e Font Awesome.
 
 ## Índice
+
+- [Telas](#telas)
+
+  - [Principal](#principal)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -13,6 +17,13 @@ Descrição.
   - [Execução do Projeto](#execução-do-projeto)
 
   - [Bibliotecas](#bibliotecas)
+
+## Telas
+
+### Principal
+
+![Main](/src/assets/main.png)
+Esta é a única tela, onde encontram-se todos os repositórios do GitHub que o usuário pesquisar na caixa de texto.
 
 ## Desenvolvimento
 

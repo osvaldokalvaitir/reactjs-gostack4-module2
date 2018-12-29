@@ -40,7 +40,7 @@ export default class Main extends Component {
   render() {
     return (
       <Container>
-        <img src={logo} alt="Github Compare" />
+        <img src={logo} alt="GitHub Compare" />
 
         <Form withError={this.state.repositoryError} onSubmit={this.handleAddRepository}>
           <input
