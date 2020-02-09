@@ -36,7 +36,7 @@ Aplicação GitHub Compare usando Create React App, ESLint, prop-types, styled-c
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela, onde encontram-se todos os repositórios do GitHub que o usuário pesquisar na caixa de texto.
 
 ## Desenvolvimento
